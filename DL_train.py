@@ -92,7 +92,7 @@ total_train_step = 0
 ### Record validation times
 total_valid_step = 0
 ### Add tensorboard
-writer = SummaryWriter("logs_mlp")
+writer = SummaryWriter("logs_cnn")
 
 start_time = time.time()
 
@@ -143,9 +143,9 @@ for i in range(epoch):
     writer.add_scalar("valid_accuracy", total_accuracy / valid_data_size, total_valid_step)
     total_valid_step += 1
 
-    torch.save(model, "./model_save/mlp/model_epoch{}_gpu.pth".format(i + 1))
+    # torch.save(model, "./model_save/mlp/model_epoch{}_gpu.pth".format(i + 1))
     # torch.save(model, "./model_save/cnn/model_epoch{}_gpu.pth".format(i + 1))
-    print("Model saved successfully")
+    # print("Model saved successfully")
 
 writer.close()
 
