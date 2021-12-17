@@ -14,7 +14,7 @@ PyTorch, sklearn, pandas, PIL, matplotlib,  tensorboard, joblib, glob
 
 # 1. Brief introduction
 
-The brain tumors are the common and  aggressive disease that can be detected by magnetic resonance imaging (MRI) figures. The purpose of this project is to explore the classification power of different  algorithms based on brain MRI scans.
+Brain tumors are a common and aggressive disease that can be detected by magnetic resonance imaging (MRI) figures. The purpose of this project is to explore the classification power of different algorithms based on brain MRI scans.
 
 ## 1.1. Binary task - Random Forest, SVM, KNN
 
@@ -68,7 +68,7 @@ Classify glioma, meningioma,  pituitary tumors, and no tumor.
 
 ## 2.3. Muiti-class task - MLP, CNN
 
-### File "model.py"  save the network structures of MLP and CNN in this project.
+### File "model.py" saves the network structures of MLP and CNN in this project.
 
 ### File "DL_train.py" trains and saves the model in "model_save".
 
@@ -82,7 +82,7 @@ Classify glioma, meningioma,  pituitary tumors, and no tumor.
 
 ### Testing: run "ML_binary_test.py"
 
-Notes. Need the model files but not provide here.
+Notes. Need the model files but not provided here.
 
 ## 3.2. Multi-class task
 
@@ -92,7 +92,9 @@ Notes. Need the model files but not provide here.
 
 Notes. Need the model files but only one CNN model is provided here.
 
-### DO NOT CHANGE THE FILE LEVEL
+### All trained models employed in the report can get in the GOOGLE DRIVE link.
+
+DO NOT CHANGE THE FILE LEVEL
 
 
 
