@@ -92,7 +92,7 @@ Notes. Need the model files but not provided here.
 
 Notes. Need the model files but only one CNN model is provided here.
 
-### All trained models employed in the report can get in the  [GOOGLE DRIVE](https://drive.google.com/drive/folders/1lIJyc9Dzal0PYi-AHzrDmhh-2IxveZ9R?usp=sharing) link
+### All trained models employed in the report can obtained in the  [GOOGLE DRIVE](https://drive.google.com/drive/folders/1lIJyc9Dzal0PYi-AHzrDmhh-2IxveZ9R?usp=sharing) link
 
 ### DO NOT CHANGE THE FILE LEVEL
 
